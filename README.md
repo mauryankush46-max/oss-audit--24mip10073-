@@ -26,8 +26,9 @@ Create a sample log file called test.log and add some fake Python â€œTracebackâ€
 If you've just downloaded or cloned this repository, Linux will treat these `.sh` files as plain text by default for security reasons. You need to tell Linux that it's allowed to run them.
 
 Open your terminal, navigate to the folder where you saved these files, and run this command to make all of them executable at once:
-```bash
-chmod +x *.sh
+
+
+   chmod +x *.sh
 
 
 __## Explaination__
