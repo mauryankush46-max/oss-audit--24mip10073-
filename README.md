@@ -30,7 +30,7 @@ Open your terminal, navigate to the folder where you saved these files, and run 
 chmod +x *.sh
 
 
-**## Explaination**
+__## Explaination__
 
 Script 1: System Identity Report
 
